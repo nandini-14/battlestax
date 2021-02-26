@@ -1,5 +1,6 @@
 <!--- STARTEXCLUDE --->
 # BattleStax 
+Stateful JAMStack game that is wholesome fun for the entire crew
 *50 minutes, Advanced, [Start Building](https://github.com/DataStax-Examples/battlestax#prerequisites)*
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
